@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mydn.netlify.app/'
 languageCode = 'en-us'
 title = "Muhammad Mayudin"
 theme = "Blonde"
@@ -13,7 +13,7 @@ disqusShortname = "myblog-tbdsa3ohmr"
 base_color = "bg-gray-800"
 
 #Site description
-description = "Blonde theme for Hugo."
+description = "My personal blog site"
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
